@@ -1,4 +1,4 @@
-# Inicialização do sistema
+# Inicialização do sistema bancário
 saldo = 0.0
 depositos = []
 saques = []
